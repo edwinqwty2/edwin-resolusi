@@ -4,9 +4,10 @@ RENCANA BELAJAR FRONT END
   *Layout
   *Heading
 - CSS
-- LARAVEL
+- LARAVEL 
  *View
  *Controller
 - Javascript
 - PHP
  *Native
+
