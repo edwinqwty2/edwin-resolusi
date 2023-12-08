@@ -1,5 +1,7 @@
 RENCANA BELAJAR FRONT END
 
 - HTML
+  *Layout
+  *Heading
 - CSS
 - LARAVEL
