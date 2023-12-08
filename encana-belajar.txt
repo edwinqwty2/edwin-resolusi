@@ -5,3 +5,4 @@ RENCANA BELAJAR FRONT END
   *Heading
 - CSS
 - LARAVEL
+- Javascript
